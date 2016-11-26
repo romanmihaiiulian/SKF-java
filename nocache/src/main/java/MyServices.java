@@ -13,7 +13,6 @@ public class MyServices extends Application{
     public Set<Class<?>> getClasses() {
         Set<Class<?>> set = new HashSet<Class<?>>();
         set.add(NoCacheApi.class);
-        set.add(NoCacheWithFilter.class);
         set.add(CacheControlFilter.class);
         return set;
     }
