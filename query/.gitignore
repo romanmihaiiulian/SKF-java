@@ -10,7 +10,7 @@ target/
 .springBeans
 
 ### IntelliJ IDEA ###
-/.idea/**
+.idea
 *.iws
 *.iml
 *.ipr
@@ -22,11 +22,5 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-/.idea/
-/.idea/sonarlint/
-/.idea/compiler.xml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/vcs.xml
-/.idea/workspace.xml
-/.idea/encodings.xml
+
+/.idea/**
