@@ -9,3 +9,4 @@
 .settings/**
 nocache.iml
 target/
+.settings/
