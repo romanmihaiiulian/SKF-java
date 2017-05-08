@@ -3,5 +3,8 @@
 /nocache.iml
 /.idea/**
 .idea/
+.classpath
+.project
+.settings
 nocache.iml
 target/
